@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1063861280222",
+    "firebase_url": "https://gcm-demo-627de.firebaseio.com",
+    "project_id": "gcm-demo-627de",
+    "storage_bucket": "gcm-demo-627de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063861280222:android:25558cc828efa183",
+        "android_client_info": {
+          "package_name": "com.atirek.alm.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063861280222-v4aebcm2mg67h9iaefc36glabh1jq3sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijSwFly7dbp5Hgjy3F9OgDbr0YepptWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063861280222:android:a7554fc791887a60",
+        "android_client_info": {
+          "package_name": "com.atirek.alm.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063861280222-v4aebcm2mg67h9iaefc36glabh1jq3sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijSwFly7dbp5Hgjy3F9OgDbr0YepptWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
